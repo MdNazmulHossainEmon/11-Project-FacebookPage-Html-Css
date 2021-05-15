@@ -1,0 +1,318 @@
+@media (max-width: 1400px) {
+  .mobile-input input {
+    padding: 8px 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 110%;
+  }
+  .create-account-Sur-name input {
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 270px;
+  }
+  .create-account-first-name input {
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 270px;
+  }
+}
+@media (max-width: 1276px) {
+  .create-account-Sur-name input {
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 255px;
+  }
+  .create-account-first-name input {
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 255px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .create-account-Sur-name input {
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 240px;
+  }
+  .create-account-first-name input {
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 240px;
+  }
+  .header-right-inner-content input {
+    width: 160px;
+  }
+  .footer-top {
+    border-bottom: 1px solid #ccc;
+    width: 920px;
+    margin: auto;
+  }
+  .footer-top ul li a {
+    text-decoration: none;
+    margin-right: 12px;
+    color: #6f3d9d;
+    font-size: 12px;
+    display: inline-block;
+  }
+  .create-account-Sur-name input {
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 220px;
+  }
+  .create-account-first-name input {
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 220px;
+  }
+}
+@media (max-width: 1068px) {
+  .header-right-inner-content input {
+    width: 130px;
+  }
+  .footer-top {
+    border-bottom: 1px solid #ccc;
+    width: 820px;
+    margin: auto;
+  }
+  .create-account-Sur-name input {
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 205px;
+  }
+  .create-account-first-name input {
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 205px;
+  }
+}
+
+@media (max-width: 992px) {
+  .header-right-inner-content input {
+    width: 120px;
+  }
+  .footer-top {
+    border-bottom: 1px solid #ccc;
+    width: 750px;
+    margin: auto;
+  }
+  .footer-top ul li a {
+    text-decoration: none;
+    margin-right: 12px;
+    color: #6f3d9d;
+    font-size: 10px;
+    display: inline-block;
+  }
+  .create-account-Sur-name input {
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 7px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 180px;
+  }
+  .create-account-first-name input {
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 181px;
+  }
+}
+
+@media (max-width: 868px) {
+  .header-left-logo {
+    width: 100%;
+    margin-top: 18px;
+    text-align: center;
+  }
+  .header-right-input {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+  }
+  .header-right-input {
+    width: 70%;
+
+    margin-top: 20px;
+  }
+  .footer-top {
+    border-bottom: 1px solid #ccc;
+    width: 650px;
+    margin: auto;
+  }
+  .footer-top ul li a {
+    text-decoration: none;
+    margin-right: 8px;
+    color: #6f3d9d;
+    font-size: 9px;
+    display: inline-block;
+  }
+  .create-account-first-name input {
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 170px;
+  }
+  .create-account-Sur-name input {
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 170px;
+  }
+}
+@media (max-width: 825px) {
+  .create-account-left {
+    width: 100%;
+    text-align: center;
+  }
+  .create-account-right {
+    width: 100%;
+  }
+  .mobile-input input {
+    padding: 8px 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+}
+
+@media (max-width: 656px) {
+  .header-right-input {
+    width: 80%;
+    margin-top: 20px;
+  }
+  .footer-top {
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    margin: auto;
+  }
+}
+
+@media (max-width: 576px) {
+  .header-right-input {
+    width: 84%;
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 496px) {
+  .header-right-input {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .header-right-inner-content input {
+    width: 100px;
+  }
+  .header-right-inner-content a {
+    display: block;
+    color: #fff;
+    font-weight: 300;
+    text-decoration: none;
+    font-size: 10px;
+    margin-top: 4px;
+  }
+  .create-account-Sur-name input {
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 140px;
+  }
+  .create-account-first-name input {
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 140px;
+    margin-left: 10px;
+  }
+}
+
+@media (max-width: 410px) {
+  .header-right-inner-content input {
+    width: 90px;
+  }
+  .create-account-first-name input {
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 130px;
+    margin-left: 10px;
+  }
+  .create-account-Sur-name input {
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 130px;
+  }
+}
+@media (max-width: 362px) {
+  .create-account-first-name input {
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 100px;
+    margin-left: 10px;
+  }
+  .create-account-Sur-name input {
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 8px 10px;
+    border-color: #bdc7d8;
+    color: #1c1e21;
+    width: 100px;
+  }
+}

@@ -1,0 +1,251 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Rubik", sans-serif;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.fixed-width {
+  width: 83%;
+  margin: auto;
+}
+.clear::after {
+  content: "";
+  clear: both;
+  display: block;
+}
+.text-center {
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+img {
+  max-width: 100%;
+}
+/* ============================ header ============================== */
+.header {
+  background-color: #29487d;
+  padding: 10px 0;
+}
+.header-left-logo {
+  width: 48%;
+  margin-top: 18px;
+}
+.header-right-input {
+  width: 48%;
+}
+.header-right-inner-content label {
+  color: #fff;
+  font-weight: 300;
+  font-size: 14px;
+  margin-bottom: 7px;
+  display: block;
+}
+.header-right-inner-content input {
+  width: 180px;
+}
+.header-right-inner-content a {
+  display: block;
+  color: #fff;
+  font-weight: 300;
+  text-decoration: none;
+  font-size: 14px;
+  margin-top: 4px;
+}
+.header-right-inner-content a:hover {
+  text-decoration: underline;
+}
+.header-right-inner-content button {
+  background-color: #4267b2;
+  margin-top: 20px;
+  display: inline-block;
+  color: #fff;
+  border: none;
+  text-decoration: none;
+  padding: 4px 10px;
+  margin-top: 22px;
+  cursor: pointer;
+}
+.header-right-inner-content {
+  margin-right: 15px;
+}
+/* ============================== Create Account ================================== */
+
+.create-account {
+  background-color: #ebedf0;
+  padding: 30px 0;
+}
+.create-account-left img {
+  width: 550px;
+  margin-top: 15px;
+}
+.create-account-left {
+  width: 48%;
+}
+.create-account-left p {
+  color: #000000;
+  font-weight: 500;
+  font-size: 18px;
+  margin-top: 50px;
+}
+
+.create-account-right {
+  width: 48%;
+}
+.create-account-right h2 {
+  color: #1d2129;
+  font-size: 40px;
+  font-weight: 500;
+  margin-top: 32px;
+}
+.create-account-right h4 {
+  color: #4b4f56;
+  font-size: 23px;
+  font-weight: 400;
+  margin-top: -15px;
+}
+.create-account-right-name {
+  display: flex;
+}
+.create-account-first-name {
+  margin-right: 15px;
+}
+.create-account-first-name input {
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 8px 10px;
+  border-color: #bdc7d8;
+  color: #1c1e21;
+  width: 285px;
+}
+.create-account-Sur-name input {
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 8px 10px;
+  border-color: #bdc7d8;
+  color: #1c1e21;
+  width: 285px;
+}
+
+.mobile-input input {
+  padding: 8px 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  font-size: 18px;
+  border-color: #bdc7d8;
+  color: #1c1e21;
+  width: 100%;
+}
+.date-of-birth option {
+  width: 25px;
+}
+.date-of-birth h5 {
+  color: #90949c;
+  font-size: 20px;
+  padding: 5px 0;
+  margin-top: 6px;
+}
+.date-select {
+  margin-top: -24px;
+}
+.gender span {
+  display: block;
+  display: block;
+  color: #90949c;
+  font-weight: 500;
+  padding: 10px 0;
+  margin-top: 5px;
+}
+.radio-btn label {
+  font-size: 20px;
+  margin-right: 10px;
+}
+.radio-btn {
+  margin-left: -3px;
+}
+
+.written p {
+  font-size: 13px;
+  line-height: 1.5em;
+  font-weight: 400;
+}
+.written a {
+  text-decoration: none;
+  color: #7547a1;
+}
+.written a:hover {
+  text-decoration: underline;
+}
+
+.sign-up-btn button {
+  background-color: #5d974a;
+  color: #fff;
+  border: 1px solid #5d974a;
+  padding: 7px 55px;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 5px;
+}
+/* ========================== Footer =============================== */
+.footer {
+  padding: 70px 0;
+}
+.footer-top {
+  border-bottom: 1px solid #ccc;
+  width: 1020px;
+  margin: auto;
+}
+.footer-top ul {
+  padding-left: 0;
+  text-align: center;
+}
+.footer-top ul li {
+  display: inline-block;
+}
+.footer-top ul li span {
+  display: inline-block;
+  color: #9f9f9f;
+  margin-right: 12px;
+}
+.footer-top ul li a {
+  text-decoration: none;
+  margin-right: 12px;
+  color: #6f3d9d;
+  font-size: 15px;
+  display: inline-block;
+}
+.footer-top ul li a:hover {
+  text-decoration: underline;
+}
+.footer-bottom {
+  margin-top: 40px;
+}
+.footer-bottom ul {
+  list-style: none;
+  text-align: center;
+}
+.footer-bottom ul li {
+  display: inline-block;
+}
+.footer-bottom ul li a {
+  text-decoration: none;
+  margin-right: 12px;
+  color: #6f3d9d;
+  padding: 5px 0;
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 300;
+}
+.footer-bottom ul li a:hover {
+  text-decoration: underline;
+}
